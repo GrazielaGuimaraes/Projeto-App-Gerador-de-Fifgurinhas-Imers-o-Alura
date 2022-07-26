@@ -1,1 +1,1 @@
-# Projeto-App-Gerador-de-Fifgurinhas-Imers-o-Alura
+# Projeto-App-Gerador-de-Figurinhas-Imersao-Alura
